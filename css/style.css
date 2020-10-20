@@ -30,9 +30,9 @@ h4 {
 }
 
 .indifferent {
-  border: 1px solid #ffff00;
-  box-shadow:  -1px 1px #ffff00, -2px 2px #ffff00, -3px 3px #ffff00, -4px 4px #ffff00, -5px 5px #ffff00;
-  background-color: #ffff00;
+  border: 1px solid #dddd22;
+  box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
+  background-color: #dddd22;
 
 }
 
