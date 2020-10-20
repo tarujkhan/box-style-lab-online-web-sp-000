@@ -31,14 +31,14 @@ h4 {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-  background: linear-gradient(to right, #118833, #66ee88);
+  
 }
 
 .indifferent {
   border: 1px solid #dddd22;
   box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
   background-color: #dddd22;
-  background: linear-gradient(to right, #770, #aa0)
+  
 }
 
 .dubious {
@@ -79,4 +79,12 @@ h4 {
 
 h4.dubious {
   background: linear-gradient(to right, #700, #a00);
+}
+
+h4.indifferent {
+  background: linear-gradient(to right, #770, #aa0);
+}
+
+h4.amiable {
+  
 }
